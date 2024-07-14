@@ -1,25 +1,9 @@
-## Hi there 👋
+![[Mohamed Arsath (2).png]]
 
-<!--
-**Arshwebs/Arshwebs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##                                                                      Hi👋
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-##                                            Hi 👋
-#####       I'm a self-motivated tech enthusiast and full stack developer.
+#####                                      I'm a self-motivated tech enthusiast and full stack developer.
 ------
 
-
-
-<img src="/imgs/Group 33673.png" width="80px" height="80px">
+<img src="/imgs/Group 33673.png" width="80px" height="80px"><img src="/imgs/Group 33675.png" width="80px" height="80px"><img src="/imgs/Group 33670.png" width="80px" height="80px"><img src="/imgs/Group 33671.png" width="80px" height="80px"><img src="/imgs/Group 33676.png" width="80px" height="80px"><img src="/imgs/Group 33669.png" width="80px" height="80px"><img src="/imgs/Group 33674.png" width="80px" height="80px"><img src="/imgs/mysql 1.png" width="80px" height="80px">
 
