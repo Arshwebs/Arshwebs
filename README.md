@@ -1,5 +1,7 @@
 <img src="/imgs/hero.png" width="100%">
+
 [![Linked In](/imgs/linkedin.png 'Linked In')](https://www.linkedin.com/in/mohamed-arsath-767257267/)
+
 ##                                                                      Hi👋
 
 ###                                      I'm a self-motivated tech enthusiast and full stack developer.
