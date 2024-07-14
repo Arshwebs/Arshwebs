@@ -1,4 +1,4 @@
-![[Mohamed Arsath (2).png]]
+<img src="/imgs/Mohamed Arsath (2).png" width="100%">
 
 ##                                                                      Hi👋
 
