@@ -1,6 +1,6 @@
 <img src="/imgs/hero.png" width="100%">
 
-[![Linked In](/imgs/linkedin.png 'Linked In')](https://www.linkedin.com/in/mohamed-arsath-767257267/#right)
+[![Linked In](/imgs/linkedin.png 'Linked In'#right)](https://www.linkedin.com/in/mohamed-arsath-767257267/)
 
 ##                                                                      Hi👋
 
