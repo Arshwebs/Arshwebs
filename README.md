@@ -1,4 +1,4 @@
-<img src="/imgs/Mohamed Arsath.png" width="100%">
+<img src="/imgs/hero.png" width="100%">
 
 ##                                                                      Hi👋
 
