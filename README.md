@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+##                                            Hi 👋
+#####       I'm a self-motivated tech enthusiast and full stack developer.
+------
+
+
+
+<img src="/imgs/Group 33673.png" width="80px" height="80px">
+
