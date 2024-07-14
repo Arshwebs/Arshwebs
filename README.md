@@ -1,7 +1,7 @@
 <img src="/imgs/hero.png" width="100%">
 
 
-##                                                                      Hi👋
+##                                                                      Hi 👋
 
 ###                                      I'm a self-motivated tech enthusiast and full stack developer.
 ------
