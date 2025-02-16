@@ -3,7 +3,7 @@
 <img width="100%" height="auto" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=24,30&section=header&text=Mohamed%20Arsath&fontSize=40&fontAlign=70&fontAlignY=35&animation=fadeIn&desc=Full%20Stack%20Developer%20|%20Creative%20Problem%20Solver&descSize=20&descAlign=70&descAlignY=55"/>
 
 <div style="display: inline-block; position: relative; margin: 20px 0;">
-  <img width="200" height="200" src="https://avatars.githubusercontent.com/u/Arshwebs?v=4" style="border-radius: 50%; border: 4px solid #7C3AED; padding: 5px; background: #0D1117;" />
+  <img width="200" height="200" src="https://portfolio-v1-two-sigma.vercel.app/assets/profile-pic-D0KR1i5A.png" style="border-radius: 50%; border: 4px solid #7C3AED; padding: 5px; background: #0D1117;" />
 </div>
 
 <a href="https://git.io/typing-svg">
