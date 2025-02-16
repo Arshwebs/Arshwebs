@@ -1,45 +1,83 @@
 <div align="center">
+  
+[![Header](https://capsule-render.vercel.app/api?type=transparent&height=200&section=header&text=Mohamed%20Arsath%20A&fontSize=60&fontColor=2196F3&animation=fadeIn&desc=Full%20Stack%20Developer&descSize=30&descAlignY=75&descAlign=60)](https://github.com/Arshwebs)
+
+<div align="center">
   <a href="https://github.com/Arshwebs">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello%20World!&height=100&section=header&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20Profile!&descAlignY=51&descAlign=62" width="100%" />
+    <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="85%">
   </a>
 </div>
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&random=false&width=600&lines=Hi+👋+I'm+Mohamed+Arsath+A;Full+Stack+Developer+💻;Software+Engineer+🚀;HTML+Email+Developer+📧;Always+Learning%2C+Always+Growing+🌱)](https://github.com/Arshwebs)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&random=false&width=600&lines=Building+Digital+Solutions+%F0%9F%92%BB;Crafting+Web+Experiences+%F0%9F%8E%A8;Engineering+Tomorrow's+Web+%F0%9F%9A%80)](https://github.com/Arshwebs)
 
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-<br>
+<table align="right">
+ <tr><td><a href="https://github.com/Arshwebs"><img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="30px"></a></td></tr>
+ <tr><td>💼 Software Developer</td></tr>
+ <tr><td>🎓 MCA Student @ VIT</td></tr>
+ <tr><td>🌍 Tamil Nadu, India</td></tr>
+ <tr><td>📧 arshathm4@gmail.com</td></tr>
+</table>
 
 <div align="left" style="margin-bottom: 20px;">
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-brightgreen" alt="Focus"/>
-  <img src="https://img.shields.io/badge/Lives-India-success" alt="Lives"/>
-  <img src="https://img.shields.io/badge/Languages-English%20%26%20Tamil-brightgreen" alt="Languages"/>
+  <h3>🤖 About Me</h3>
+  <ul>
+    <li>Full Stack Developer specializing in modern web technologies</li>
+    <li>Passionate about creating scalable and efficient solutions</li>
+    <li>Expert in HTML email development</li>
+    <li>Always learning and exploring new technologies</li>
+  </ul>
 </div>
 
-<br>
+<br clear="both">
 
-<div align="left" style="margin-right: 450px;">
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
+<h2 align="center">⚡ Technology Stack</h2>
+
+<div align="center">
+  
+  | Frontend | Backend | Database | Tools |
+  |:--------:|:-------:|:--------:|:-----:|
+  | <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux" /> | <img src="https://skillicons.dev/icons?i=nodejs,express" /> | <img src="https://skillicons.dev/icons?i=mongodb,mysql" /> | <img src="https://skillicons.dev/icons?i=git,postman,figma,webflow" /> |
+  
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<p align="center">
+  <img width="400px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Arshwebs&show_icons=true&theme=aura&hide_border=true&bg_color=0D1117" />
+  <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=Arshwebs&theme=aura&hide_border=true&background=0D1117" />
+</p>
+
+<p align="center">
+  <img width="400px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Arshwebs&layout=compact&theme=aura&hide_border=true&bg_color=0D1117" />
+  <img width="400px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arshwebs&theme=aura_dark" />
+</p>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+<h2 align="center">🎯 Current Focus</h2>
+
+<div align="center">
+  
 ```javascript
-const arsath = {
-    pronouns: "He" | "Him",
-    code: ["JavaScript", "TypeScript", "HTML", "CSS"],
-    askMeAbout: ["web dev", "tech", "email dev"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Redux"],
-            css: ["Bootstrap", "Material UI", "Tailwind"]
-        },
-        backEnd: {
-            js: ["Node", "Express"],
-        },
-        databases: ["MongoDB", "MySQL"],
-        tools: ["Git", "Postman", "Figma", "Webflow"]
-    }
+const currentFocus = {
+    learning: ["Advanced React Patterns", "System Design"],
+    working: ["Event Hub Platform", "Email Development"],
+    exploring: ["Cloud Architecture", "DevOps"],
+    education: "Master of Computer Applications @ VIT (2026)"
 };
 ```
 
@@ -49,73 +87,7 @@ const arsath = {
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-<h2>
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> 
-  Skills & Tools
-</h2>
-
-<div align="center" style="margin: 20px 0;">
-  
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nodejs,express,mongodb,mysql,git,postman,figma,webflow&perline=7" alt="My Skills"/>
-  
-  <br><br>
-  
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-  
-</div>
-
-<h2>
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> 
-  GitHub Stats
-</h2>
-
-<p align="center">
-  <a href="https://github.com/Arshwebs">
-    <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arshwebs&theme=tokyonight"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Arshwebs">
-    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Arshwebs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Arshwebs&layout=compact&theme=tokyonight"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Arshwebs">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arshwebs&theme=tokyonight" alt="GitHub Streak"/>
-  </a>
-</p>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-<h2>
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25">
-  Current Endeavors
-</h2>
-
-<div align="center">
-  
-- 🎓 Pursuing **Master of Computer Applications** at VIT (Expected 2026)
-- 💼 Former **Software Developer Engineer** at Vajro
-- 🌱 Specializing in **HTML email development** and **web applications**
-- 🔭 Working on **Event Hub platform**
-- 📚 Learning **Advanced React Patterns** & **System Design**
-- 👯 Open to collaborate on **Innovative Web Projects**
-
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-<h2>
-  <img src="https://media.giphy.com/media/c5vDr1rkcbcrBwG9SX/giphy.gif" width="25">
-  Let's Connect
-</h2>
+<h2 align="center">🤝 Connect With Me</h2>
 
 <div align="center">
   
