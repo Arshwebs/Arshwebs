@@ -1,7 +1,7 @@
-# Hi there! 👋 I'm Mohamed Arsath A
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Software+Developer+Engineer;HTML+Email+Developer" alt="Typing SVG" />
+  
+[![Header](https://capsule-render.vercel.app/api?type=transparent&height=300&section=header&text=Mohamed%20Arsath&fontSize=90&fontColor=0A84FF&animation=fadeIn&fontAlign=50&desc=Full%20Stack%20Developer&descSize=40&descAlignY=70&descAlign=50&fontAlignY=35&stroke=0A84FF&strokeWidth=2)](https://github.com/Arshwebs)
+
 </div>
 
 <p align="center">
@@ -16,22 +16,40 @@
 
 </p>
 
-<table align="right" style="margin-left: 20px; border: none;">
- <tr><td><a href="https://github.com/Arshwebs"><img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="30px"></a></td></tr>
- <tr><td>💼 Software Developer</td></tr>
- <tr><td>🎓 MCA Student @ VIT</td></tr>
- <tr><td>🌍 Tamil Nadu, India</td></tr>
- <tr><td>📧 arshathm4@gmail.com</td></tr>
-</table>
+<div style="display: flex; align-items: flex-start; margin: 20px 0;">
+  <table align="right" style="margin-left: 20px; border: none; background: #0D1117; padding: 15px; border-radius: 10px;">
+    <tr>
+      <td align="center">
+        <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="30px">
+        <br>
+        <strong style="font-size: 16px;">Quick Info</strong>
+      </td>
+    </tr>
+    <tr><td align="left">💼 Software Developer</td></tr>
+    <tr><td align="left">🎓 MCA Student @ VIT</td></tr>
+    <tr><td align="left">🌍 Tamil Nadu, India</td></tr>
+    <tr><td align="left">📧 arshathm4@gmail.com</td></tr>
+  </table>
 
-<div align="left" style="margin: 20px 0;">
-  <h2>🤖 About Me</h2>
-  <ul style="list-style-type: none; padding-left: 0;">
-    <li>👨‍💻 Full Stack Developer specializing in modern web technologies</li>
-    <li>🚀 Passionate about creating scalable and efficient solutions</li>
-    <li>📧 Expert in HTML email development</li>
-    <li>📚 Always learning and exploring new technologies</li>
-  </ul>
+  <div align="left" style="flex: 1; background: #0D1117; padding: 20px; border-radius: 10px; margin-right: 20px;">
+    <h2 align="left" style="border-bottom: 2px solid #0A84FF; padding-bottom: 10px; margin-bottom: 20px;">
+      🤖 About Me
+    </h2>
+    <ul style="list-style-type: none; padding-left: 0; margin: 0;">
+      <li style="margin: 10px 0;">
+        <strong>👨‍💻 Role:</strong> Full Stack Developer specializing in modern web technologies
+      </li>
+      <li style="margin: 10px 0;">
+        <strong>🚀 Passion:</strong> Creating scalable and efficient solutions
+      </li>
+      <li style="margin: 10px 0;">
+        <strong>📧 Expertise:</strong> HTML email development and responsive design
+      </li>
+      <li style="margin: 10px 0;">
+        <strong>📚 Growth:</strong> Continuously learning and exploring new technologies
+      </li>
+    </ul>
+  </div>
 </div>
 
 <br clear="both">
@@ -70,19 +88,29 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-<h2 align="center">🎯 Current Focus</h2>
+<h2 align="center" style="border-bottom: 2px solid #0A84FF; width: fit-content; margin: 20px auto; padding: 0 50px 10px;">🎯 Current Focus</h2>
 
-<div align="center" style="background: #0D1117; padding: 20px; border-radius: 10px; margin: 20px 0;">
-  
+<div align="center" style="display: flex; justify-content: center; margin: 20px 0;">
+  <div style="background: #0D1117; padding: 25px; border-radius: 10px; width: 80%; max-width: 800px; border: 1px solid #1A1B27;">
+    
 ```javascript
 const currentFocus = {
-    learning: ["Advanced React Patterns", "System Design"],
-    working: ["Event Hub Platform", "Email Development"],
-    exploring: ["Cloud Architecture", "DevOps"],
-    education: "Master of Computer Applications @ VIT (2026)"
+    learning: {
+        technologies: ["Advanced React Patterns", "System Design"],
+        inProgress: "Master of Computer Applications @ VIT (2026)"
+    },
+    working: {
+        projects: ["Event Hub Platform", "Email Development"],
+        skills: ["Frontend Architecture", "Backend Optimization"]
+    },
+    exploring: {
+        areas: ["Cloud Architecture", "DevOps"],
+        interests: ["AI Integration", "Performance Optimization"]
+    }
 };
 ```
 
+  </div>
 </div>
 
 <div align="center">
