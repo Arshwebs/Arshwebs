@@ -1,7 +1,7 @@
-<div align="center">
-  
-[![Header](https://capsule-render.vercel.app/api?type=transparent&height=300&section=header&text=Mohamed%20Arsath&fontSize=90&fontColor=0A84FF&animation=fadeIn&fontAlign=50&desc=Full%20Stack%20Developer&descSize=40&descAlignY=70&descAlign=50&fontAlignY=35&stroke=0A84FF&strokeWidth=2)](https://github.com/Arshwebs)
+# Hi there! 👋 I'm Mohamed Arsath A
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Software+Developer+Engineer;HTML+Email+Developer" alt="Typing SVG" />
 </div>
 
 <p align="center">
