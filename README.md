@@ -1,6 +1,6 @@
 <div align="center">
   
-[![Header](https://capsule-render.vercel.app/api?type=transparent&height=300&section=header&text=Mohamed%20Arsath&fontSize=90&fontColor=0A84FF&animation=fadeIn&fontAlign=50&desc=Full%20Stack%20Developer&descSize=40&descAlignY=70&descAlign=50&fontAlignY=35&stroke=0A84FF&strokeWidth=2)](https://github.com/Arshwebs)
+[![Header](https://capsule-render.vercel.app/api?type=transparent&height=300&section=header&text=Mohamed%20Arsath&fontSize=90&fontColor=9DB2BF&animation=fadeIn&fontAlign=50&desc=Full%20Stack%20Developer&descSize=40&descAlignY=70&descAlign=50&fontAlignY=35&stroke=27374D&strokeWidth=2&fontFamily=Pacifico)](https://github.com/Arshwebs)
 
 </div>
 
@@ -12,47 +12,52 @@
 
 <p align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=35&duration=3000&pause=1000&color=0A84FF&center=true&vCenter=true&random=false&width=800&lines=Building+Digital+Solutions+%F0%9F%92%BB;Crafting+Web+Experiences+%F0%9F%8E%A8;Engineering+Tomorrow's+Web+%F0%9F%9A%80)](https://github.com/Arshwebs)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&weight=600&size=40&duration=3000&pause=1000&color=9DB2BF&center=true&vCenter=true&random=false&width=800&lines=Building+Digital+Solutions+%F0%9F%92%BB;Crafting+Web+Experiences+%F0%9F%8E%A8;Engineering+Tomorrow's+Web+%F0%9F%9A%80)](https://github.com/Arshwebs)
 
 </p>
 
-<div style="display: flex; align-items: flex-start; margin: 20px 0;">
-  <table align="right" style="margin-left: 20px; border: none; background: #0D1117; padding: 15px; border-radius: 10px;">
-    <tr>
-      <td align="center">
-        <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="30px">
-        <br>
-        <strong style="font-size: 16px;">Quick Info</strong>
-      </td>
-    </tr>
-    <tr><td align="left">💼 Software Developer</td></tr>
-    <tr><td align="left">🎓 MCA Student @ VIT</td></tr>
-    <tr><td align="left">🌍 Tamil Nadu, India</td></tr>
-    <tr><td align="left">📧 arshathm4@gmail.com</td></tr>
-  </table>
-
-  <div align="left" style="flex: 1; background: #0D1117; padding: 20px; border-radius: 10px; margin-right: 20px;">
-    <h2 align="left" style="border-bottom: 2px solid #0A84FF; padding-bottom: 10px; margin-bottom: 20px;">
+<div style="display: flex; justify-content: space-between; align-items: stretch; gap: 20px; margin: 40px 0;">
+  <div style="flex: 2; background: #0D1117; padding: 25px; border-radius: 10px; border: 1px solid #27374D;">
+    <h2 align="center" style="border-bottom: 2px solid #9DB2BF; padding-bottom: 10px; margin-bottom: 25px; font-family: 'Dancing Script', cursive; font-size: 32px;">
       🤖 About Me
     </h2>
     <ul style="list-style-type: none; padding-left: 0; margin: 0;">
-      <li style="margin: 10px 0;">
-        <strong>👨‍💻 Role:</strong> Full Stack Developer specializing in modern web technologies
+      <li style="margin: 15px 0; padding: 10px; border-radius: 5px; transition: all 0.3s ease;">
+        <strong style="color: #9DB2BF;">👨‍💻 Role:</strong> Full Stack Developer specializing in modern web technologies
       </li>
-      <li style="margin: 10px 0;">
-        <strong>🚀 Passion:</strong> Creating scalable and efficient solutions
+      <li style="margin: 15px 0; padding: 10px; border-radius: 5px; transition: all 0.3s ease;">
+        <strong style="color: #9DB2BF;">🚀 Passion:</strong> Creating scalable and efficient solutions
       </li>
-      <li style="margin: 10px 0;">
-        <strong>📧 Expertise:</strong> HTML email development and responsive design
+      <li style="margin: 15px 0; padding: 10px; border-radius: 5px; transition: all 0.3s ease;">
+        <strong style="color: #9DB2BF;">📧 Expertise:</strong> HTML email development and responsive design
       </li>
-      <li style="margin: 10px 0;">
-        <strong>📚 Growth:</strong> Continuously learning and exploring new technologies
+      <li style="margin: 15px 0; padding: 10px; border-radius: 5px; transition: all 0.3s ease;">
+        <strong style="color: #9DB2BF;">📚 Growth:</strong> Continuously learning and exploring new technologies
       </li>
     </ul>
   </div>
-</div>
 
-<br clear="both">
+  <div style="flex: 1; background: #0D1117; padding: 25px; border-radius: 10px; border: 1px solid #27374D;">
+    <h3 align="center" style="margin-bottom: 20px; font-family: 'Dancing Script', cursive; font-size: 28px; color: #9DB2BF;">
+      <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="30px" style="vertical-align: middle;">
+      Quick Info
+    </h3>
+    <div style="display: flex; flex-direction: column; gap: 15px;">
+      <div style="padding: 10px; border-radius: 5px; transition: all 0.3s ease;">
+        <span style="color: #9DB2BF;">💼</span> Software Developer
+      </div>
+      <div style="padding: 10px; border-radius: 5px; transition: all 0.3s ease;">
+        <span style="color: #9DB2BF;">🎓</span> MCA Student @ VIT
+      </div>
+      <div style="padding: 10px; border-radius: 5px; transition: all 0.3s ease;">
+        <span style="color: #9DB2BF;">🌍</span> Tamil Nadu, India
+      </div>
+      <div style="padding: 10px; border-radius: 5px; transition: all 0.3s ease;">
+        <span style="color: #9DB2BF;">📧</span> arshathm4@gmail.com
+      </div>
+    </div>
+  </div>
+</div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
