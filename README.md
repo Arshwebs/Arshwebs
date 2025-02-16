@@ -135,4 +135,4 @@ const currentFocus = {
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0A84FF&height=100&section=footer&animation=twinkling&fontSize=70"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0A84FF&height=100&section=footer&animation=twinkling&fontSize=70"/>
