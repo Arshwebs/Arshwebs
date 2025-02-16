@@ -51,23 +51,29 @@ I'm a passionate Full-stack developer with expertise in creating dynamic web app
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arshwebs&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub Stats" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arshwebs&theme=tokyonight" alt="GitHub Streak" />
+  [![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Arshwebs&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)](https://github.com/Arshwebs)
+
+  [![GitHub Streak](https://streak-stats.demolab.com?user=Arshwebs&theme=tokyonight)](https://github.com/Arshwebs)
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arshwebs&layout=compact&theme=tokyonight&hide=jupyter%20notebook" alt="Top Languages" />
+  [![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Arshwebs&layout=compact&theme=tokyonight&hide=jupyter%20notebook)](https://github.com/Arshwebs)
+
 </div>
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Arshwebs&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  
+  [![Trophy](https://github-profile-trophy.vercel.app/?username=Arshwebs&theme=tokyonight&row=2&column=4&margin-w=15&margin-h=15&no-bg=true)](https://github.com/Arshwebs)
+
 </div>
 
 ## 📊 GitHub Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arshwebs&theme=tokyo-night&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
+  
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Arshwebs&theme=tokyo-night&area=true&hide_border=true)](https://github.com/Arshwebs)
+
 </div>
 
 ## 🎯 Current Focus
