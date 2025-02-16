@@ -3,7 +3,7 @@
 <img width="100%" height="auto" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=24,30&section=header&text=Mohamed%20Arsath&fontSize=40&fontAlign=70&fontAlignY=35&animation=fadeIn&desc=Full%20Stack%20Developer%20|%20Creative%20Problem%20Solver&descSize=20&descAlign=70&descAlignY=55"/>
 
 <div style="display: inline-block; position: relative; margin: 20px 0;">
-  <img width="200" height="200" src="imgs/Untitled_design__2_-removebg-preview (1).png" style="border-radius: 50%; border: 4px solid #7C3AED; padding: 5px; background: #0D1117;" />
+  <img width="408" height="612" src="imgs/Untitled_design__2_-removebg-preview (1).png" style="border-radius: 50%; border: 4px solid #7C3AED; padding: 5px; background: #0D1117;" />
 </div>
 
 <a href="https://git.io/typing-svg">
@@ -93,7 +93,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Arshwebs&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
 </div>
 
-<div style="background: #0D1117; padding: 25px; border-radius: 10px; border: 1px solid #4F46E5; margin: 20px auto; max-width: 800px;">
+<div style="background: #0D1117; padding: 25px; border-radius: 10px; border: 1px solid #4F46E5; margin: 20px max-width: 800px;">
   <h2 align="center" style="color: #E0E7FF; margin-bottom: 20px; font-size: 24px;">
     🎯 Current Focus
   </h2>
