@@ -51,7 +51,23 @@ I'm a passionate Full-stack developer with expertise in creating dynamic web app
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arshwebs&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Arshwebs&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arshwebs&theme=tokyonight" alt="GitHub Streak" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arshwebs&layout=compact&theme=tokyonight&hide=jupyter%20notebook" alt="Top Languages" />
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Arshwebs&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</div>
+
+## 📊 GitHub Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arshwebs&theme=tokyo-night&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
 </div>
 
 ## 🎯 Current Focus
@@ -74,7 +90,13 @@ I'm a passionate Full-stack developer with expertise in creating dynamic web app
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Arshwebs&color=blueviolet" alt="Profile Views" />
+
+### 👀 Profile Views
+
+[![Profile Views](https://komarev.com/ghpvc/?username=Arshwebs&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Arshwebs)
+
+![](https://hit.yhype.me/github/profile?user_id=Arshwebs)
+
 </div>
 
 > *"Clean code always looks like it was written by someone who cares."*
