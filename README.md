@@ -93,8 +93,7 @@
   <h2 align="center" style="color: #E0E7FF; margin-bottom: 20px; font-size: 24px;">
     🎯 Current Focus
   </h2>
-  <pre  style="background: #1F2937; text-align: justify;
-    width: 100%; padding: 20px; border-radius: 8px; color: #E0E7FF; margin: 0; overflow-x: auto;">
+  <pre  style="background: #1F2937; text-align: justify !important; width: 100%; padding: 20px; border-radius: 8px; color: #E0E7FF; margin: 0; overflow-x: auto;">
     <code align="left">
       const currentFocus = {
                             learning: {
