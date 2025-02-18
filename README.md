@@ -77,7 +77,7 @@
   </h2>
   <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
     <img height="200px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Arshwebs&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&rank_icon=github&show_icons=true&include_all_commits=true&custom_title=My%20GitHub%20Journey" />
-    <img height="200px" src="https://github-readme-streak-stats.herokuapp.com?user=Arshwebs&theme=tokyonight&hide_border=true&background=0D1117&fire=FF6B6B&ring=7C3AED&currStreakLabel=A5B4FC" />
+    <a href="https://git.io/streak-stats"><img  height="200px" src="https://github-readme-streak-stats.herokuapp.com?user=ArshWebs&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=FF6B6B&currStreakLabel=A5B4FC&hide_total_contributions=true" alt="GitHub Streak" /></a>
   </div>
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Arshwebs&custom_title=Mohamed%20Arsath's%20Contribution%20Graph&bg_color=0D1117&color=7C3AED&line=4F46E5&point=A5B4FC&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="Activity Graph" style="margin-top: 20px;" />
 
