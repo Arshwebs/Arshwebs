@@ -93,6 +93,8 @@
   <h2 style="color: #E0E7FF; margin-bottom: 20px; font-size: 24px; text-align: center;">
     🎯 Current Focus
   </h2>
+  <span style="text-align="justify">
+    
 
 ```js
 const currentFocus = {
@@ -110,6 +112,7 @@ const currentFocus = {
     }
 };
 ```
+  </span>
 </div>
 
 <div style="background: #0D1117; padding: 25px; border-radius: 10px; border: 1px solid #4F46E5; margin: 20px 0;">
