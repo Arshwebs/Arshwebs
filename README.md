@@ -80,6 +80,9 @@
     <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=Arshwebs&theme=tokyonight&hide_border=true&background=0D1117&fire=FF6B6B&ring=7C3AED&currStreakLabel=A5B4FC" />
   </div>
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Arshwebs&custom_title=Mohamed%20Arsath's%20Contribution%20Graph&bg_color=0D1117&color=7C3AED&line=4F46E5&point=A5B4FC&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="Activity Graph" style="margin-top: 20px;" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arshwebs&theme=tokyonight&hide_border=true&background=0D1117&fire=FF6B6B&ring=7C3AED&currStreakLabel=A5B4FC" alt="GitHub Streak Stats" />
+
 </div>
 
 <div style="background: #0D1117; padding: 25px; border-radius: 10px; border: 1px solid #4F46E5; margin: 20px 0;">
