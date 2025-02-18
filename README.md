@@ -93,8 +93,8 @@
   <h2 style="color: #E0E7FF; margin-bottom: 20px; font-size: 24px; text-align: center;">
     🎯 Current Focus
   </h2>
-  <pre style="background: #1F2937; text-align: justify; width: 100%; padding: 20px; border-radius: 8px; color: #E0E7FF; margin: 0; overflow-x: auto;">
-    <code>
+ <pre style="background: #1F2937; text-align: left; width: 100%; padding: 20px; border-radius: 8px; color: #E0E7FF; margin: 0; overflow-x: auto;">
+    <code style="text-align: left; display: block;">
 const currentFocus = {
                         learning: {
                           technologies: ["Advanced React Patterns", "System Design"],
