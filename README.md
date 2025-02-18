@@ -93,25 +93,24 @@
   <h2 style="color: #E0E7FF; margin-bottom: 20px; font-size: 24px; text-align: center;">
     🎯 Current Focus
   </h2>
- <pre style="background: #1F2937; text-align: left; width: 100%; padding: 20px; border-radius: 8px; color: #E0E7FF; margin: 0; overflow-x: auto;">
-    <code style="text-align: left; display: block;">
-const currentFocus = {
-                        learning: {
-                          technologies: ["Advanced React Patterns", "System Design"],
-                          inProgress: "Master of Computer Applications @ VIT (2026)"
-                        },
-                        working: {
-                          projects: ["Event Hub Platform", "Email Development"],
-                          skills: ["Frontend Architecture", "Backend Optimization"]
-                        },
-                        exploring: {
-                          areas: ["Cloud Architecture", "DevOps"],
-                          interests: ["AI Integration", "Performance Optimization"]
-                        }
-                    };
-    </code>
-  </pre>
 </div>
+
+```js
+const currentFocus = {
+    learning: {
+        technologies: ["Advanced React Patterns", "System Design"],
+        inProgress: "Master of Computer Applications @ VIT (2026)"
+    },
+    working: {
+        projects: ["Event Hub Platform", "Email Development"],
+        skills: ["Frontend Architecture", "Backend Optimization"]
+    },
+    exploring: {
+        areas: ["Cloud Architecture", "DevOps"],
+        interests: ["AI Integration", "Performance Optimization"]
+    }
+};
+```
 
 
 <div style="background: #0D1117; padding: 25px; border-radius: 10px; border: 1px solid #4F46E5; margin: 20px 0;">
