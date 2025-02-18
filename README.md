@@ -93,21 +93,21 @@
   <h2 align="center" style="color: #E0E7FF; margin-bottom: 20px; font-size: 24px;">
     🎯 Current Focus
   </h2>
-  <pre style="background: #1F2937; padding: 20px; border-radius: 8px; color: #E0E7FF; margin: 0; overflow-x: auto;">
+  <pre align="left" style="background: #1F2937; padding: 20px; border-radius: 8px; color: #E0E7FF; margin: 0; overflow-x: auto;">
     <code>
       const currentFocus = {
-                          learning: {
-                              technologies: ["Advanced React Patterns", "System Design"],
-                              inProgress: "Master of Computer Applications @ VIT (2026)"
-                          },
-                          working: {
-                              projects: ["Event Hub Platform", "Email Development"],
-                              skills: ["Frontend Architecture", "Backend Optimization"]
-                          },
-                          exploring: {
-                              areas: ["Cloud Architecture", "DevOps"],
-                              interests: ["AI Integration", "Performance Optimization"]
-                          }
+                            learning: {
+                                technologies: ["Advanced React Patterns", "System Design"],
+                                inProgress: "Master of Computer Applications @ VIT (2026)"
+                            },
+                            working: {
+                                projects: ["Event Hub Platform", "Email Development"],
+                                skills: ["Frontend Architecture", "Backend Optimization"]
+                            },
+                            exploring: {
+                                areas: ["Cloud Architecture", "DevOps"],
+                                interests: ["AI Integration", "Performance Optimization"]
+                            }
                           };
     </code>
   </pre>
