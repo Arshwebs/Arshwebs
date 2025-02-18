@@ -89,32 +89,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Arshwebs&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
 </div>
 
-<div style="background: #0D1117; padding: 25px; border-radius: 10px; border: 1px solid #4F46E5; margin: 20px; max-width: 800px;">
-  <h2 style="color: #E0E7FF; margin-bottom: 20px; font-size: 24px; text-align: center;">
-    🎯 Current Focus
-  </h2>
-  <span style="text-align="justify">
-    
-
-```js
-const currentFocus = {
-    learning: {
-        technologies: ["Advanced React Patterns", "System Design"],
-        inProgress: "Master of Computer Applications @ VIT (2026)"
-    },
-    working: {
-        projects: ["Event Hub Platform", "Email Development"],
-        skills: ["Frontend Architecture", "Backend Optimization"]
-    },
-    exploring: {
-        areas: ["Cloud Architecture", "DevOps"],
-        interests: ["AI Integration", "Performance Optimization"]
-    }
-};
-```
-  </span>
-</div>
-
 <div style="background: #0D1117; padding: 25px; border-radius: 10px; border: 1px solid #4F46E5; margin: 20px 0;">
   <h2 align="center" style="color: #E0E7FF; margin-bottom: 20px; font-size: 24px;">
     🤝 Let's Connect
