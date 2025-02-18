@@ -2,10 +2,6 @@
 
 <img width="100%" height="auto" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=24,30&section=header&text=Mohamed%20Arsath&fontSize=40&fontAlign=70&fontAlignY=35&animation=fadeIn&desc=Full%20Stack%20Developer%20|%20Creative%20Problem%20Solver&descSize=20&descAlign=70&descAlignY=55"/>
 
-<div style="display: inline-block; position: relative; margin: 20px 0;">
-  <img width="408" height="612" src="imgs/Untitled_design__2_-removebg-preview (1).png" style="border-radius: 50%; border: 4px solid #7C3AED; padding: 5px; background: #0D1117;" />
-</div>
-
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A5B4FC&center=true&vCenter=true&width=435&lines=Building+Digital+Solutions+%F0%9F%92%BB;Crafting+Web+Experiences+%F0%9F%8E%A8;Engineering+Tomorrow's+Web+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
@@ -97,20 +93,24 @@
   <h2 align="center" style="color: #E0E7FF; margin-bottom: 20px; font-size: 24px;">
     🎯 Current Focus
   </h2>
-  <pre style="background: #1F2937; padding: 20px; border-radius: 8px; color: #E0E7FF; margin: 0; overflow-x: auto;"><code>const currentFocus = {
-    learning: {
-        technologies: ["Advanced React Patterns", "System Design"],
-        inProgress: "Master of Computer Applications @ VIT (2026)"
-    },
-    working: {
-        projects: ["Event Hub Platform", "Email Development"],
-        skills: ["Frontend Architecture", "Backend Optimization"]
-    },
-    exploring: {
-        areas: ["Cloud Architecture", "DevOps"],
-        interests: ["AI Integration", "Performance Optimization"]
-    }
-};</code></pre>
+  <pre style="background: #1F2937; padding: 20px; border-radius: 8px; color: #E0E7FF; margin: 0; overflow-x: auto;">
+    <code>
+      const currentFocus = {
+                          learning: {
+                              technologies: ["Advanced React Patterns", "System Design"],
+                              inProgress: "Master of Computer Applications @ VIT (2026)"
+                          },
+                          working: {
+                              projects: ["Event Hub Platform", "Email Development"],
+                              skills: ["Frontend Architecture", "Backend Optimization"]
+                          },
+                          exploring: {
+                              areas: ["Cloud Architecture", "DevOps"],
+                              interests: ["AI Integration", "Performance Optimization"]
+                          }
+                          };
+    </code>
+  </pre>
 </div>
 
 <div style="background: #0D1117; padding: 25px; border-radius: 10px; border: 1px solid #4F46E5; margin: 20px 0;">
