@@ -1,7 +1,9 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=24,30&section=header&text=Mohamed%20Arsath&fontSize=40&fontAlign=70&fontAlignY=35&animation=fadeIn&desc=Full%20Stack%20Developer%20|%20Creative%20Problem%20Solver&descSize=20&descAlign=70&descAlignY=55"/>
+
+
 
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=24,30&section=header&text=Mohamed%20Arsath&fontSize=40&fontAlign=70&fontAlignY=35&animation=fadeIn&desc=Full%20Stack%20Developer%20|%20Creative%20Problem%20Solver&descSize=20&descAlign=70&descAlignY=55)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=A5B4FC&center=true&vCenter=true&width=435&lines=Building+Digital+Solutions+%F0%9F%92%BB;Crafting+Web+Experiences+%F0%9F%8E%A8;Engineering+Tomorrow's+Web+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20only%20way%20to%20do%20great%20work%20is%20to%20love%20what%20you%20do.&author=Steve%20Jobs" width="500px"/>
@@ -105,3 +107,4 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=24,30&section=footer"/>
 
 </div>
+
