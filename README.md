@@ -16,7 +16,7 @@
 
 <div style="margin: 20px 0;">
   <a href="https://github.com/Arshwebs" target="_blank">
-    <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%" />
+    <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
   </a>
 </div>
 
@@ -36,7 +36,7 @@
       <strong style="color: #A5B4FC;">💻 Role:</strong> Full Stack Developer
     </div>
     <div style="padding: 15px; border-radius: 8px; background: #1F2937; transition: all 0.3s ease; cursor: pointer;" onmouseover="this.style.transform='translateY(-5px)'" onmouseout="this.style.transform='translateY(0)'">
-      <strong style="color: #A5B4FC;">🎓 Education:</strong> MCA @ VIT
+      <strong style="color: #A5B4FC;">🎓 Education:</strong> B.E MECH @ AVIT
     </div>
     <div style="padding: 15px; border-radius: 8px; background: #1F2937; transition: all 0.3s ease; cursor: pointer;" onmouseover="this.style.transform='translateY(-5px)'" onmouseout="this.style.transform='translateY(0)'">
       <strong style="color: #A5B4FC;">🌍 Location:</strong> Tamil Nadu, India
@@ -54,11 +54,11 @@
   <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 20px;">
     <div style="text-align: center; padding: 15px; border-radius: 8px; background: #1F2937; transition: all 0.3s ease;">
       <h4 style="color: #A5B4FC; margin-bottom: 15px;">Frontend</h4>
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux" alt="Frontend Skills" />
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,vue,nuxt" alt="Frontend Skills" />
     </div>
     <div style="text-align: center; padding: 15px; border-radius: 8px; background: #1F2937; transition: all 0.3s ease;">
       <h4 style="color: #A5B4FC; margin-bottom: 15px;">Backend</h4>
-      <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend Skills" />
+      <img src="https://skillicons.dev/icons?i=nodejs,express,redis,nestjs" alt="Backend Skills" />
     </div>
     <div style="text-align: center; padding: 15px; border-radius: 8px; background: #1F2937; transition: all 0.3s ease;">
       <h4 style="color: #A5B4FC; margin-bottom: 15px;">Database</h4>
@@ -76,8 +76,8 @@
     📊 GitHub Stats
   </h2>
   <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
-    <img height="200px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Arshwebs&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&rank_icon=github&show_icons=true&include_all_commits=true&custom_title=My%20GitHub%20Journey" />
-    <a href="https://git.io/streak-stats"><img  height="200px" src="https://github-readme-streak-stats.herokuapp.com?user=Arshwebs&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=FF6B6B&currStreakLabel=A5B4FC&hide_total_contributions=true" alt="GitHub Streak" /></a>
+    <img height="200px" src="https://github-readme-stats.vercel.app/api?username=Arshwebs&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&rank_icon=github&show_icons=true&custom_title=My%20GitHub%20Journey" />
+    <a href="https://git.io/streak-stats"><img height="200px" src="https://github-readme-streak-stats.herokuapp.com?user=Arshwebs&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=FF6B6B&currStreakLabel=A5B4FC" alt="GitHub Streak" /></a>
   </div>
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Arshwebs&custom_title=Mohamed%20Arsath's%20Contribution%20Graph&bg_color=0D1117&color=7C3AED&line=4F46E5&point=A5B4FC&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="Activity Graph" style="margin-top: 20px;" />
 
@@ -87,7 +87,7 @@
   <h2 align="center" style="color: #E0E7FF; margin-bottom: 20px; font-size: 24px;">
     🏆 GitHub Achievements
   </h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=Arshwebs&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Arshwebs&theme=algolia&no-frame=true&no-bg=true&row=1&column=6" width="100%" alt="Trophy" />
 </div>
 
 <div style="background: #0D1117; padding: 25px; border-radius: 10px; border: 1px solid #4F46E5; margin: 20px 0;">
@@ -98,7 +98,7 @@
     <a href="https://www.linkedin.com/in/mohamedarshath" target="_blank" style="transform: scale(1); transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
       <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="YOUR_PORTFOLIO_URL" target="_blank" style="transform: scale(1); transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+    <a href="https://arshwebs.github.io/portfolio" target="_blank" style="transform: scale(1); transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
       <img src="https://img.shields.io/badge/Portfolio-%23FF7139.svg?&style=for-the-badge&logo=Firefox-Browser&logoColor=white" alt="Portfolio" />
     </a>
     <a href="mailto:arshathm4@gmail.com" style="transform: scale(1); transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
